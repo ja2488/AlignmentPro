@@ -2,7 +2,7 @@
 
 This is the official support site for the *Alignment Pro App**.
 
-📌 Hosted via GitHub Pages: [Visit Support Page](https://github.com/ja2488/AlignmentPro/)
+📌 Hosted via GitHub Pages: [Visit Support Page](https://ja2488.github.io/AlignmentPro/)
 
 ## Contents
 
