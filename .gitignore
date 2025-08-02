@@ -1,0 +1,4 @@
+# Node / Build Tools (if used later)
+node_modules/
+dist/
+.env
